@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://s1lvester.github.io/blog/sitemap.xml
