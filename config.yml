@@ -43,15 +43,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "img/apple-touch-icon.png"
+    favicon16x16: "img/16x16.png"
+    favicon32x32: "img/32x32.png"
+    apple_touch_icon: "img/apple-touch-icon.png"
+    safari_pinned_tab: "img/apple-touch-icon.png"
 
   label:
-    text: "MB"
-    icon: /apple-touch-icon.png
+    text: " "
+    icon: img/apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
@@ -72,7 +72,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi."
-    Content: "I'm Markus, a Physician and Data Scientist. I use this blog to aggregate knowledge, topics and posts I find interesting around Data Science in Healthcare and related topics."
+    Content: "I'm Markus, a Physician and Data Scientist. On this blog I aggregate links and posts around Data Science in Healthcare and related topics."
 
   socialIcons:
     - name: linkedin
