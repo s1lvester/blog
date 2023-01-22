@@ -6,12 +6,26 @@
     <description>Recent content on Markus Bockhacker</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://blog.bockhacker.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Datenschutzerklärung</title>
+      <link>https://blog.bockhacker.com/datenschutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bockhacker.com/datenschutz/</guid>
+      <description>To comply with german law this page contains information about your rights according to the GDPR.
+1. Datenschutz auf einen Blick Allgemeine Hinweise Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
+Datenerfassung auf unserer Website Wer ist verantwortlich für die Datenerfassung auf dieser Website?</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
       <link>https://blog.bockhacker.com/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://blog.bockhacker.com/impressum/</guid>
-      <description>About Hello World.</description>
+      <description>To comply with german law this page contains information about the person responsible. For Reference, see this article from Wikipedia.
+Angaben gemäß § 5 TMG: Markus Bockhacker Schwarzwaldstr. 21 D-75236 Kämpfelbach Telefon: +49 (0) 7232 3081105 E-Mail: markus(at)bockhacker.com Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: Markus Bockhacker
+Aufsichtsbehörde: Ärztekammer Berlin
+Berufsbezeichnung: Arzt Zuständige Kammer: Ärztekammer Berlin Verliehen durch: Bundesrepublik Deutschland Es gelten folgende berufsrechtliche Regelungen: Arzt-Gesetzbuch Regelungen einsehbar unter: https://www.</description>
     </item>
     
   </channel>
