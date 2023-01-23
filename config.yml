@@ -71,13 +71,15 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi."
-    Content: "I'm Markus, a Physician and Data Scientist. On this blog I aggregate links and posts around Data Science in Healthcare and related topics."
+    Content: "I'm Markus, a Physician and Data Scientist from Berlin. On this blog I aggregate links and posts around Data Science in Healthcare and related topics."
 
   socialIcons:
     - name: linkedin
       url: "https://linkedin.com/in/bockhacker"
     - name: github
       url: "https://github.com/s1lvester"
+    - name: mastodon
+      url: "https://chaos.social/@Silvester"
 
   cover:
     hidden: true # hide everywhere but not in structured data
