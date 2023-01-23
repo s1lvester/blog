@@ -17,7 +17,7 @@ params:
   title: "MB"
   description: "A personal Blog around Data Science in Healthcare"
   keywords: [Blog, Portfolio, PaperMod, Data Science, Healthcare, AI]
-  author: "Dr. med. Markus Bockhacker"
+  author: "Markus Bockhacker"
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -86,10 +86,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/s1lvester/blog/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  #editPost:
+  #  URL: "https://github.com/s1lvester/blog/content"
+  #  Text: "Suggest Changes" # edit text
+  #  appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
