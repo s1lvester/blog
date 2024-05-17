@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.bockhacker.com/post/2020-01-12-evaluating_usability_of_a_touchless_image_viewer_in_the_operating_room/</loc>
+    <loc>https://blog.bockhacker.com/tags/ai/</loc>
     <lastmod>2020-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.bockhacker.com/tags/first/</loc>
+    <loc>https://blog.bockhacker.com/tags/deep-learning/</loc>
+    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.bockhacker.com/posts/2020-01-12-evaluating_usability_of_a_touchless_image_viewer_in_the_operating_room/post/</loc>
     <lastmod>2020-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.bockhacker.com/</loc>
     <lastmod>2020-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.bockhacker.com/post/</loc>
+    <loc>https://blog.bockhacker.com/posts/</loc>
+    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.bockhacker.com/tags/publication/</loc>
+    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.bockhacker.com/tags/pubmed/</loc>
+    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.bockhacker.com/tags/science/</loc>
     <lastmod>2020-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.bockhacker.com/tags/</loc>
