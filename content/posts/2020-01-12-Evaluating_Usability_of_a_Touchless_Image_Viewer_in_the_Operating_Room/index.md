@@ -22,10 +22,10 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: ./schmiddy.jpg
+    image: schmiddy.jpg
     alt: A surgeon using hand gestures to operate a software system
     caption: A surgeon using hand gestures to operate a software system
-    relative: true
+    relative: false
 params:
     responsiveImages: true
 ---
