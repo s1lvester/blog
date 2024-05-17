@@ -5,7 +5,8 @@
     <link>https://blog.bockhacker.com/</link>
     <description>Recent content on Markus Bockhacker</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://blog.bockhacker.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.bockhacker.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Datenschutzerklärung</title>
       <link>https://blog.bockhacker.com/datenschutz/</link>
@@ -24,9 +25,9 @@ Datenerfassung auf unserer Website Wer ist verantwortlich für die Datenerfassun
       
       <guid>https://blog.bockhacker.com/impressum/</guid>
       <description>To comply with german law this page contains information about the person responsible. For Reference, see this article from Wikipedia.
-Angaben gemäß § 5 TMG: Markus Bockhacker Schwarzwaldstr. 21 D-75236 Kämpfelbach Telefon: +49 (0) 7232 3081105 E-Mail: markus(at)bockhacker.com Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: Markus Bockhacker
+Angaben gemäß § 5 TMG: Markus Bockhacker Wühlischstr. 31 D-10245 Berlin E-Mail: markus(at)bockhacker.com Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: Markus Bockhacker
 Aufsichtsbehörde: Ärztekammer Berlin
-Berufsbezeichnung: Arzt Zuständige Kammer: Ärztekammer Berlin Verliehen durch: Bundesrepublik Deutschland Es gelten folgende berufsrechtliche Regelungen: Arzt-Gesetzbuch Regelungen einsehbar unter: https://www.</description>
+Berufsbezeichnung: Arzt Zuständige Kammer: Ärztekammer Berlin Verliehen durch: Bundesrepublik Deutschland Es gelten folgende berufsrechtliche Regelungen: Arzt-Gesetzbuch Regelungen einsehbar unter: https://www.aekb.de Quelle: https://www.</description>
     </item>
     
   </channel>
