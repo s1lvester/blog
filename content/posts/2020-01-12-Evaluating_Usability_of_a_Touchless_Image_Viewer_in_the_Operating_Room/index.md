@@ -25,7 +25,7 @@ cover:
     image: schmiddy.jpg
     alt: A surgeon using hand gestures to operate a software system
     caption: A surgeon using hand gestures to operate a software system
-    relative: false
+    relative: true
 params:
     responsiveImages: true
 ---
