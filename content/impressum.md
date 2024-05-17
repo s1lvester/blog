@@ -14,10 +14,9 @@ title: Impressum
 
 ```txt
 Markus Bockhacker
-Schwarzwaldstr. 21
-D-75236 Kämpfelbach
+Wühlischstr. 31
+D-10245 Berlin
 
-Telefon: +49 (0) 7232 3081105
 E-Mail:  markus(at)bockhacker.com
 ```
 
