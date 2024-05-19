@@ -10,10 +10,8 @@ cover:
     relative: true
 ---
 
-<figure>
-	<img src="./schmiddy.jpg" alt="Dr. Schmidt controlling an image viewer in the OR via hand gestures">
-	<figcaption>Dr. Schmidt controlling an image viewer in the OR via hand gestures</figcaption>
-</figure>
+[Dr. Schmidt controlling an image viewer in the OR via hand gestures"](./schmiddy.jpg#center "Dr. Schmidt controlling an image viewer in the OR via hand gestures")
+Dr. Schmidt controlling an image viewer in the OR via hand gestures
 
 The digitalization of medicine is progressing and accelerating further due to the German Hospital Future Act (KHZG). As a community, we should not forget to evaluate the developed solutions, apps, and AI algorithms together with the users. This works excellently in cooperation with clinics and practices. From such a collaboration with mbits imaging, a paper has emerged that is now available as Open Access. In this paper, we examine the usability of a deep learning software in the operating room. At this point, I would like to extend my thanks once again to Hannah Syrek and Michael Müller for the great collaboration!
 
