@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Notes on Markus Bockhacker</title>
+    <link>https://markus.bockhacker.com/tags/notes/</link>
+    <description>Recent content in Notes on Markus Bockhacker</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://markus.bockhacker.com/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PyCon &amp; PyData 2024 - a wiered event</title>
+      <link>https://markus.bockhacker.com/posts/2024-04-28_python-2024/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2024-04-28_python-2024/</guid>
+      <description>#PyCon and hashtag#PyData Berlin is over and we collectively have landed back in reality.
+In retrospect I have mixed feelings about the conference. On the plus side I was lucky to meet with a diverse group of interesting people, especially during the social event. 🥳
+Unfortunately the quality of the talks was very hit and miss. Here’s an incomplete list of the ones I would recommend checking out - as far as I know they will be slowly released on YouTube:</description>
+    </item>
+    <item>
+      <title>Healthcare NLP Summit write-up 10/2023</title>
+      <link>https://markus.bockhacker.com/posts/2023-10-14_healhtcare-nlp-summit/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2023-10-14_healhtcare-nlp-summit/</guid>
+      <description>The past year has been eventful in the fields of Machine Learning (ML) and Artificial Intelligence (AI). From October 3rd to 5th, 2023, John Snow Labs organized their second Natural Language Processing (NLP) Summit of the year. This event included a variety of informative presentations from both emerging start-ups and established players in the Language Model sector. This is the first part of a two-part conference write-up; it discusses trends and technologies, while the subsequent part will focus on applications in healthcare.</description>
+    </item>
+    <item>
+      <title>Healthcare NLP Summit write-up</title>
+      <link>https://markus.bockhacker.com/posts/2023-04-06_healthcare-nlp-summit/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2023-04-06_healthcare-nlp-summit/</guid>
+      <description>I spent the last two evenings attending John Snow Labs&amp;rsquo; virtual &amp;ldquo;Healthcare NLP Summit,&amp;rdquo; and I found it to be a stimulating event. If you couldn&amp;rsquo;t attend, here are my notes:
+LLMs are all the hype Large-language-models (LLMs) were the overarching topic of the conference, and some speakers (particularly from marketing and sales) were excited about the possibilities. However, there wasn&amp;rsquo;t a clear vision of what these possibilities entailed. Senior researchers and executives had a different sentiment.</description>
+    </item>
+  </channel>
+</rss>

@@ -6,8 +6,74 @@
     <description>Recent content in Posts on Markus Bockhacker</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://markus.bockhacker.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PyCon &amp; PyData 2024 - a wiered event</title>
+      <link>https://markus.bockhacker.com/posts/2024-04-28_python-2024/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2024-04-28_python-2024/</guid>
+      <description>#PyCon and hashtag#PyData Berlin is over and we collectively have landed back in reality.
+In retrospect I have mixed feelings about the conference. On the plus side I was lucky to meet with a diverse group of interesting people, especially during the social event. 🥳
+Unfortunately the quality of the talks was very hit and miss. Here’s an incomplete list of the ones I would recommend checking out - as far as I know they will be slowly released on YouTube:</description>
+    </item>
+    <item>
+      <title>Healthcare NLP Summit write-up 10/2023</title>
+      <link>https://markus.bockhacker.com/posts/2023-10-14_healhtcare-nlp-summit/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2023-10-14_healhtcare-nlp-summit/</guid>
+      <description>The past year has been eventful in the fields of Machine Learning (ML) and Artificial Intelligence (AI). From October 3rd to 5th, 2023, John Snow Labs organized their second Natural Language Processing (NLP) Summit of the year. This event included a variety of informative presentations from both emerging start-ups and established players in the Language Model sector. This is the first part of a two-part conference write-up; it discusses trends and technologies, while the subsequent part will focus on applications in healthcare.</description>
+    </item>
+    <item>
+      <title>Using NER and LLMs to enhance de-identification of semi-structured EMR data – preliminary results and lessons learned</title>
+      <link>https://markus.bockhacker.com/posts/2023-09-17_llms-for-de-identification-of-medical-texts/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2023-09-17_llms-for-de-identification-of-medical-texts/</guid>
+      <description>Today I presented a poster at the GMDS 2023 congress in Heilbronn Germany. The poster was about using Named Entity Recognition (NER) and Language Models (LLMs) to enhance the de-identification of semi-structured Electronic Medical Record (EMR) data.
+In essence we used open-source LLMs to augment our de-identification pippeline for semi-structured EMR data. The LLMs were used to identify entities that were not covered by the NER model we used. Since all of this had to be done on-site (on-premise) and with limited resources, you can probably imagine that the results were&amp;rsquo;nt stellar.</description>
+    </item>
+    <item>
+      <title>Epic Goes to Germany: A Snapshot of the Future?</title>
+      <link>https://markus.bockhacker.com/posts/2023-04-22_epic-goes-to-germany/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2023-04-22_epic-goes-to-germany/</guid>
+      <description>A seismic shift in Germany&amp;rsquo;s Electronic Health Record (EHR) market is on the horizon.
+A few months back, SAP announced they&amp;rsquo;re discontinuing the &amp;lsquo;Industry Solution for Healthcare&amp;rsquo; (IS-H), an adaptation of their Enterprise Resource Planning (ERP) system that provides patient administration and billing services. This sudden move was quite surprising and means many German hospitals will need to transition their primary EHR system in the upcoming years.
+While I&amp;rsquo;m not personally involved in these discussions, I stumbled upon an enlightening article from 2019 detailing the experiences of 18 Danish hospitals during their transition to the Epic EHR system.</description>
+    </item>
+    <item>
+      <title>Healthcare NLP Summit write-up</title>
+      <link>https://markus.bockhacker.com/posts/2023-04-06_healthcare-nlp-summit/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2023-04-06_healthcare-nlp-summit/</guid>
+      <description>I spent the last two evenings attending John Snow Labs&amp;rsquo; virtual &amp;ldquo;Healthcare NLP Summit,&amp;rdquo; and I found it to be a stimulating event. If you couldn&amp;rsquo;t attend, here are my notes:
+LLMs are all the hype Large-language-models (LLMs) were the overarching topic of the conference, and some speakers (particularly from marketing and sales) were excited about the possibilities. However, there wasn&amp;rsquo;t a clear vision of what these possibilities entailed. Senior researchers and executives had a different sentiment.</description>
+    </item>
+    <item>
+      <title>Death by EHR</title>
+      <link>https://markus.bockhacker.com/posts/2021-12-30-death_by_ehr/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2021-12-30-death_by_ehr/</guid>
+      <description>This article describes how the poorly designed EHR user interfaces from the early 2000s have lead to physician fatigue and put patients at risk. Fast forward to 2022, where we see issues with data quality when trying to use EHR data to generate Real-World-Evidence.
+Turns out, these 40-Item-Dropdown-Fields have lead users to rather „misuse“ freetext fields for orders and documentation - thereby causing sparse datasets and challenges for pseudonymization.
+This is just another reason to strongly focus on UX of EHR systems and other medical devices.</description>
+    </item>
+    <item>
+      <title>Idea vs. Reality: the Importance of Interdisciplinary Teams in AI and Medical Research</title>
+      <link>https://markus.bockhacker.com/posts/2021-08-04-none_of_them_helped/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2021-08-04-none_of_them_helped/</guid>
+      <description>In 2021, one of the most thought-provoking articles highlighted the gap between the excitement surrounding AI in healthcare and the actual products that emerged. This divergence underscores a crucial lesson: the necessity of interdisciplinary development teams.
+Silos in Expertise During the COVID-19 pandemic, numerous AI tools were rapidly developed to assist with hospital diagnoses and patient care. However, many of these tools failed to deliver on their promises. The root of this issue lies in the isolated development processes.</description>
+    </item>
+    <item>
+      <title>Peoples willingness to donate data for medical research is higher than you might think</title>
+      <link>https://markus.bockhacker.com/posts/2021-05-11-datenspende/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2021-05-11-datenspende/</guid>
+      <description>This article from the german Ärzteblatt describes a recent survey reveals that 50% of Germans are open to donating their health data for research purposes. This data could significantly advance studies on chronic and rare diseases, providing valuable insights for the medical community.
+While this is a promising result, it is important to note that the data must be handled responsibly and with the utmost care to protect the privacy of the donors.</description>
+    </item>
     <item>
       <title>Evaluating Usability of a Touchless Image Viewer in the Operating Room</title>
       <link>https://markus.bockhacker.com/posts/2020-01-12-evaluating_usability_of_a_touchless_image_viewer_in_the_operating_room/</link>

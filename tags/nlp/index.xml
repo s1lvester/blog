@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NLP on Markus Bockhacker</title>
+    <link>https://markus.bockhacker.com/tags/nlp/</link>
+    <description>Recent content in NLP on Markus Bockhacker</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://markus.bockhacker.com/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Healthcare NLP Summit write-up 10/2023</title>
+      <link>https://markus.bockhacker.com/posts/2023-10-14_healhtcare-nlp-summit/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2023-10-14_healhtcare-nlp-summit/</guid>
+      <description>The past year has been eventful in the fields of Machine Learning (ML) and Artificial Intelligence (AI). From October 3rd to 5th, 2023, John Snow Labs organized their second Natural Language Processing (NLP) Summit of the year. This event included a variety of informative presentations from both emerging start-ups and established players in the Language Model sector. This is the first part of a two-part conference write-up; it discusses trends and technologies, while the subsequent part will focus on applications in healthcare.</description>
+    </item>
+    <item>
+      <title>Using NER and LLMs to enhance de-identification of semi-structured EMR data – preliminary results and lessons learned</title>
+      <link>https://markus.bockhacker.com/posts/2023-09-17_llms-for-de-identification-of-medical-texts/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2023-09-17_llms-for-de-identification-of-medical-texts/</guid>
+      <description>Today I presented a poster at the GMDS 2023 congress in Heilbronn Germany. The poster was about using Named Entity Recognition (NER) and Language Models (LLMs) to enhance the de-identification of semi-structured Electronic Medical Record (EMR) data.
+In essence we used open-source LLMs to augment our de-identification pippeline for semi-structured EMR data. The LLMs were used to identify entities that were not covered by the NER model we used. Since all of this had to be done on-site (on-premise) and with limited resources, you can probably imagine that the results were&amp;rsquo;nt stellar.</description>
+    </item>
+    <item>
+      <title>Healthcare NLP Summit write-up</title>
+      <link>https://markus.bockhacker.com/posts/2023-04-06_healthcare-nlp-summit/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2023-04-06_healthcare-nlp-summit/</guid>
+      <description>I spent the last two evenings attending John Snow Labs&amp;rsquo; virtual &amp;ldquo;Healthcare NLP Summit,&amp;rdquo; and I found it to be a stimulating event. If you couldn&amp;rsquo;t attend, here are my notes:
+LLMs are all the hype Large-language-models (LLMs) were the overarching topic of the conference, and some speakers (particularly from marketing and sales) were excited about the possibilities. However, there wasn&amp;rsquo;t a clear vision of what these possibilities entailed. Senior researchers and executives had a different sentiment.</description>
+    </item>
+  </channel>
+</rss>

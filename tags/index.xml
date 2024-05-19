@@ -6,20 +6,118 @@
     <description>Recent content in Tags on Markus Bockhacker</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://markus.bockhacker.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ai</title>
-      <link>https://markus.bockhacker.com/tags/ai/</link>
+      <title>Berlin</title>
+      <link>https://markus.bockhacker.com/tags/berlin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://markus.bockhacker.com/tags/ai/</guid>
+      <guid>https://markus.bockhacker.com/tags/berlin/</guid>
       <description></description>
     </item>
     <item>
-      <title>Deep-Learning</title>
-      <link>https://markus.bockhacker.com/tags/deep-learning/</link>
+      <title>Conferece</title>
+      <link>https://markus.bockhacker.com/tags/conferece/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://markus.bockhacker.com/tags/deep-learning/</guid>
+      <guid>https://markus.bockhacker.com/tags/conferece/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>https://markus.bockhacker.com/tags/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pycon</title>
+      <link>https://markus.bockhacker.com/tags/pycon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/pycon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pydata</title>
+      <link>https://markus.bockhacker.com/tags/pydata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/pydata/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conference</title>
+      <link>https://markus.bockhacker.com/tags/conference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/conference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Healthcare</title>
+      <link>https://markus.bockhacker.com/tags/healthcare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/healthcare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NLP</title>
+      <link>https://markus.bockhacker.com/tags/nlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/nlp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Congress</title>
+      <link>https://markus.bockhacker.com/tags/congress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/congress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Privacy</title>
+      <link>https://markus.bockhacker.com/tags/data-privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/data-privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Protection</title>
+      <link>https://markus.bockhacker.com/tags/data-protection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/data-protection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>De-Identification</title>
+      <link>https://markus.bockhacker.com/tags/de-identification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/de-identification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EMR</title>
+      <link>https://markus.bockhacker.com/tags/emr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/emr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GMDS</title>
+      <link>https://markus.bockhacker.com/tags/gmds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/gmds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLMs</title>
+      <link>https://markus.bockhacker.com/tags/llms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/llms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster</title>
+      <link>https://markus.bockhacker.com/tags/poster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/poster/</guid>
       <description></description>
     </item>
     <item>
@@ -30,6 +128,111 @@
       <description></description>
     </item>
     <item>
+      <title>Ehr</title>
+      <link>https://markus.bockhacker.com/tags/ehr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/ehr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Epic</title>
+      <link>https://markus.bockhacker.com/tags/epic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/epic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Khzg</title>
+      <link>https://markus.bockhacker.com/tags/khzg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/khzg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sap</title>
+      <link>https://markus.bockhacker.com/tags/sap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/sap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transition</title>
+      <link>https://markus.bockhacker.com/tags/transition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/transition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://markus.bockhacker.com/tags/technology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Usability</title>
+      <link>https://markus.bockhacker.com/tags/usability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/usability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>https://markus.bockhacker.com/tags/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>COVID-19</title>
+      <link>https://markus.bockhacker.com/tags/covid-19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>https://markus.bockhacker.com/tags/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Donation</title>
+      <link>https://markus.bockhacker.com/tags/data-donation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/data-donation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Driven Research</title>
+      <link>https://markus.bockhacker.com/tags/data-driven-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/data-driven-research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Medical Research</title>
+      <link>https://markus.bockhacker.com/tags/medical-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/medical-research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Real World Data</title>
+      <link>https://markus.bockhacker.com/tags/real-world-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/real-world-data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep-Learning</title>
+      <link>https://markus.bockhacker.com/tags/deep-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Pubmed</title>
       <link>https://markus.bockhacker.com/tags/pubmed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -37,10 +240,10 @@
       <description></description>
     </item>
     <item>
-      <title>Science</title>
-      <link>https://markus.bockhacker.com/tags/science/</link>
+      <title>Useability</title>
+      <link>https://markus.bockhacker.com/tags/useability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://markus.bockhacker.com/tags/science/</guid>
+      <guid>https://markus.bockhacker.com/tags/useability/</guid>
       <description></description>
     </item>
   </channel>

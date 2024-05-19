@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ehr on Markus Bockhacker</title>
+    <link>https://markus.bockhacker.com/tags/ehr/</link>
+    <description>Recent content in Ehr on Markus Bockhacker</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://markus.bockhacker.com/tags/ehr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Epic Goes to Germany: A Snapshot of the Future?</title>
+      <link>https://markus.bockhacker.com/posts/2023-04-22_epic-goes-to-germany/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2023-04-22_epic-goes-to-germany/</guid>
+      <description>A seismic shift in Germany&amp;rsquo;s Electronic Health Record (EHR) market is on the horizon.
+A few months back, SAP announced they&amp;rsquo;re discontinuing the &amp;lsquo;Industry Solution for Healthcare&amp;rsquo; (IS-H), an adaptation of their Enterprise Resource Planning (ERP) system that provides patient administration and billing services. This sudden move was quite surprising and means many German hospitals will need to transition their primary EHR system in the upcoming years.
+While I&amp;rsquo;m not personally involved in these discussions, I stumbled upon an enlightening article from 2019 detailing the experiences of 18 Danish hospitals during their transition to the Epic EHR system.</description>
+    </item>
+    <item>
+      <title>Death by EHR</title>
+      <link>https://markus.bockhacker.com/posts/2021-12-30-death_by_ehr/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2021-12-30-death_by_ehr/</guid>
+      <description>This article describes how the poorly designed EHR user interfaces from the early 2000s have lead to physician fatigue and put patients at risk. Fast forward to 2022, where we see issues with data quality when trying to use EHR data to generate Real-World-Evidence.
+Turns out, these 40-Item-Dropdown-Fields have lead users to rather „misuse“ freetext fields for orders and documentation - thereby causing sparse datasets and challenges for pseudonymization.
+This is just another reason to strongly focus on UX of EHR systems and other medical devices.</description>
+    </item>
+  </channel>
+</rss>

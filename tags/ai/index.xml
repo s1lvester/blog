@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ai on Markus Bockhacker</title>
+    <title>AI on Markus Bockhacker</title>
     <link>https://markus.bockhacker.com/tags/ai/</link>
-    <description>Recent content in Ai on Markus Bockhacker</description>
+    <description>Recent content in AI on Markus Bockhacker</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://markus.bockhacker.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Idea vs. Reality: the Importance of Interdisciplinary Teams in AI and Medical Research</title>
+      <link>https://markus.bockhacker.com/posts/2021-08-04-none_of_them_helped/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2021-08-04-none_of_them_helped/</guid>
+      <description>In 2021, one of the most thought-provoking articles highlighted the gap between the excitement surrounding AI in healthcare and the actual products that emerged. This divergence underscores a crucial lesson: the necessity of interdisciplinary development teams.
+Silos in Expertise During the COVID-19 pandemic, numerous AI tools were rapidly developed to assist with hospital diagnoses and patient care. However, many of these tools failed to deliver on their promises. The root of this issue lies in the isolated development processes.</description>
+    </item>
     <item>
       <title>Evaluating Usability of a Touchless Image Viewer in the Operating Room</title>
       <link>https://markus.bockhacker.com/posts/2020-01-12-evaluating_usability_of_a_touchless_image_viewer_in_the_operating_room/</link>

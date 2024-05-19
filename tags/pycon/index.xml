@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pycon on Markus Bockhacker</title>
+    <link>https://markus.bockhacker.com/tags/pycon/</link>
+    <description>Recent content in Pycon on Markus Bockhacker</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://markus.bockhacker.com/tags/pycon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PyCon &amp; PyData 2024 - a wiered event</title>
+      <link>https://markus.bockhacker.com/posts/2024-04-28_python-2024/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2024-04-28_python-2024/</guid>
+      <description>#PyCon and hashtag#PyData Berlin is over and we collectively have landed back in reality.
+In retrospect I have mixed feelings about the conference. On the plus side I was lucky to meet with a diverse group of interesting people, especially during the social event. 🥳
+Unfortunately the quality of the talks was very hit and miss. Here’s an incomplete list of the ones I would recommend checking out - as far as I know they will be slowly released on YouTube:</description>
+    </item>
+  </channel>
+</rss>

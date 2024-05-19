@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Real World Data on Markus Bockhacker</title>
+    <link>https://markus.bockhacker.com/tags/real-world-data/</link>
+    <description>Recent content in Real World Data on Markus Bockhacker</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://markus.bockhacker.com/tags/real-world-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peoples willingness to donate data for medical research is higher than you might think</title>
+      <link>https://markus.bockhacker.com/posts/2021-05-11-datenspende/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2021-05-11-datenspende/</guid>
+      <description>This article from the german Ärzteblatt describes a recent survey reveals that 50% of Germans are open to donating their health data for research purposes. This data could significantly advance studies on chronic and rare diseases, providing valuable insights for the medical community.
+While this is a promising result, it is important to note that the data must be handled responsibly and with the utmost care to protect the privacy of the donors.</description>
+    </item>
+  </channel>
+</rss>

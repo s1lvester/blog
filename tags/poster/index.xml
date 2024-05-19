@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Poster on Markus Bockhacker</title>
+    <link>https://markus.bockhacker.com/tags/poster/</link>
+    <description>Recent content in Poster on Markus Bockhacker</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://markus.bockhacker.com/tags/poster/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using NER and LLMs to enhance de-identification of semi-structured EMR data – preliminary results and lessons learned</title>
+      <link>https://markus.bockhacker.com/posts/2023-09-17_llms-for-de-identification-of-medical-texts/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://markus.bockhacker.com/posts/2023-09-17_llms-for-de-identification-of-medical-texts/</guid>
+      <description>Today I presented a poster at the GMDS 2023 congress in Heilbronn Germany. The poster was about using Named Entity Recognition (NER) and Language Models (LLMs) to enhance the de-identification of semi-structured Electronic Medical Record (EMR) data.
+In essence we used open-source LLMs to augment our de-identification pippeline for semi-structured EMR data. The LLMs were used to identify entities that were not covered by the NER model we used. Since all of this had to be done on-site (on-premise) and with limited resources, you can probably imagine that the results were&amp;rsquo;nt stellar.</description>
+    </item>
+  </channel>
+</rss>
