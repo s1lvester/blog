@@ -2,7 +2,7 @@
 title: "Evaluating Usability of a Touchless Image Viewer in the Operating Room"
 date: 2020-01-12
 
-tags: ["pubmed", "science", "publication", "deep-learning", "ai"]
+tags: ["pubmed", "publication", "deep-learning", "ai", "useability"]
 cover:
     image: schmiddy.jpg
     alt: A surgeon using hand gestures to operate a software system
